@@ -77,3 +77,62 @@ was O
 clearer O
 . O
 
+West B-MISC
+Indian I-MISC
+all-rounder O
+Phil B-PER
+Simmons I-PER
+took O
+four O
+for O
+38 O
+on O
+Friday O
+as O
+Leicestershire B-ORG
+beat O
+Somerset B-ORG
+by O
+an O
+innings O
+and O
+39 O
+runs O
+in O
+two O
+days O
+to O
+take O
+over O
+at O
+the O
+head O
+of O
+the O
+county O
+championship O
+. O
+
+SOCCER O
+- O
+JAPAN B-LOC
+GET O
+LUCKY O
+WIN O
+, O
+CHINA B-PER
+IN O
+SURPRISE O
+DEFEAT O
+. O
+
+Nadim B-PER
+Ladki I-PER
+
+AL-AIN B-LOC
+, O
+United B-LOC
+Arab I-LOC
+Emirates I-LOC
+1996-12-06 O
+
